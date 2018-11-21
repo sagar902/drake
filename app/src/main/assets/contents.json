@@ -1,0 +1,130 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "mainpack",
+      "name": "Drake Main Pack",
+      "publisher": "FutureKing",
+      "tray_image_file": "mainpack.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "2.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "3.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "4.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "5.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "6.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "7.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "88b85ff7ec9226c30e1bb690bbe59de3.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "580b585b2edbce24c47b2523.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "759541_large.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "Drake-PNG-Image-Free-Download.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "drake-png-photo-gallery-600.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "Drake-PNG-Transparent-Photo.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "drake_png_by_maarcopngs-da8mlyr.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "kisspng-drake-musician-clip-art-5af2dfd91bd964.7904370215258664571141.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "kisspng-drake-rapper-musician-celebrity-songwriter-drake-5ac4b296015892.9679904515228402140055.webp",
+          "emojis": [""]
+
+        }
+      ]
+
+    },
+    {
+
+      "identifier": "head",
+      "name": "Drake Heads",
+      "publisher": "FutureKing",
+      "tray_image_file": "head.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "2.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "3.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "4.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "5.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "chin-clipart-transparent.webp",
+          "emojis": [""]
+
+        },{
+          "image_file": "Drake-PNG.webp",
+          "emojis": [""]
+
+        }
+      ]
+
+    }
+
+
+  ]
+
+}
